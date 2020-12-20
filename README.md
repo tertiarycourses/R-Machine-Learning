@@ -1,5 +1,5 @@
 # NICF - Pattern Recognition and Machine Learning with R
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF - Pattern Recognition and Machine Learning with R](https://www.tertiarycourses.com.sg/wsq-machine-learning-r.html) course. 
 
